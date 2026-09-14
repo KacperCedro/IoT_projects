@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "AHT20_BMP280_Test",
+			"path": "../../../sensorTest/AHT20_BMP280_Test"
+		},
+		{
+			"name": "Wifi_sensor_project",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
